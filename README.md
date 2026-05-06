@@ -1,4 +1,4 @@
-# Histogram Equalization for Image Contrast Enhancement
+# Image-Contrast-Correction
 
 ## Overview
 
