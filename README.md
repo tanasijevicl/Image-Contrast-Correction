@@ -1,4 +1,4 @@
-# Image-Contrast-Correction
+# Image Contrast Correction
 
 ## Overview
 
