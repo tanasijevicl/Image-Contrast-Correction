@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements histogram equalization for enhancing the contrast of a grayscale image using VHDL on an FPGA development system. The task includes processing an image stored in multiple BRAMs, calculating a histogram, performing cumulative histogram equalization, and transmitting the processed image to a PC via UART.
+This project implements histogram equalization for enhancing the contrast of a grayscale image using VHDL on an FPGA development system. The task includes processing an image stored in multiple BRAMs, calculating a histogram, performing cumulative histogram equalization, and transmitting the processed image to a PC via UART. 
 
 ## Features
 
